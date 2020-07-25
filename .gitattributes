@@ -1,5 +1,2 @@
+AIG1-2-1.zip filter=lfs diff=lfs merge=lfs -text
 Andromeda[[:space:]]Steinway[[:space:]]Concert[[:space:]]Grand[[:space:]]-[[:space:]]Remastered.sf2 filter=lfs diff=lfs merge=lfs -text
-AIG[[:space:]]1.1.zip filter=lfs diff=lfs merge=lfs -text
-AIG filter=lfs diff=lfs merge=lfs -text
-1.2.zip filter=lfs diff=lfs merge=lfs -text
-AIG[[:space:]]1.2.zip filter=lfs diff=lfs merge=lfs -text
